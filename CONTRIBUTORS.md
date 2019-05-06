@@ -24,6 +24,7 @@ Name | Email | Twitter |
 [Zack OConnor](https://github.com/ZackOConnor)| (zackary.oconnor@gmail.com)| |
 [Daniel Klein](https://github.com/bildzeitung) | [bildzeitung@gmail.com](bildzeitung@gmail.com) | [mrdanielklein](https://twitter.com/bildzeitung)
 Halle Jones|HJones@aliacy.com|
+[Laura Gutierrez](https://github.com/lauraooq) | [laura.gutierrez@ooqia.com](laura.gutierrez@ooqia.com) | [lauraooq](https://twitter.com/lauraooqia)
 [Moshe Zadka](https://cobordism.com) | [moshez@zadka.club](moshez@zadka.club) | [moshezadka](https://twitter.com/moshezadka) |
 [Daniel Klein](https://github.com/bildzeitung) | [bildzeitung@gmail.com](bildzeitung@gmail.com) | [mrdanielklein](https://twitter.com/bildzeitung)
 Halle Jones|HJones@aliacy.com||

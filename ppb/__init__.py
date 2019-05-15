@@ -25,12 +25,13 @@ def _make_kwargs(setup, title):
     }
     return kwargs
 
-def _make_kwargs(setup):
+def _make_kwargs(setup, title):
     kwargs = {
         "resolution": (800, 600),
         "scene_kwargs": {
             "set_up": setup,
-        }
+        },
+        "window_title": title,
     }
     return kwargs
 
